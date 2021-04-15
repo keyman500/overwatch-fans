@@ -1,0 +1,247 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Looper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-06 08:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: inc/template-hooks.php:210
+msgid " and "
+msgstr ""
+
+#: comments.php:42
+msgid "&larr; Previous Comments"
+msgstr ""
+
+#: inc/functions.php:145
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-hooks.php:32 inc/template-hooks.php:48
+msgid ", "
+msgstr ""
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#. name of commenter
+#: inc/functions.php:145
+#, php-format
+msgid "<cite class=\"fn\">%1$s</cite> %2$s"
+msgstr ""
+
+#: comments.php:21
+msgid "<span>%</span> Comments"
+msgid_plural "<span>%</span> Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:21
+msgid "<span>1</span> Comment"
+msgstr ""
+
+#: comments.php:21
+msgid "<span>No</span> Comments"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/functions.php:269
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/template-hooks.php:210
+msgid "Built with"
+msgstr ""
+
+#: comments.php:57
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Color 1"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Color 2"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Color 3"
+msgstr ""
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#. %s: Name of current post
+#: contents/content-page.php:48
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: comments.php:62
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Footer Copyright bg"
+msgstr ""
+
+#: inc/functions.php:123
+msgid "Footer Nav"
+msgstr ""
+
+#. Name of the template
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://wpdevshed.com/"
+msgstr ""
+
+#: inc/template-hooks.php:210
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpdevshed.com/themes/looper"
+msgstr ""
+
+#: inc/template-hooks.php:210
+msgid "https://wpdevshed.com/themes/looper/"
+msgstr ""
+
+#: contents/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. this is a reply title to a specific comment
+#: comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Name of the theme
+msgid "Looper"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Looper is a simple, bold and modern blogging theme with an aesthetic "
+"suitable for gaming, media or personal blogs. The default home page features "
+"a hero post above a regular masonery post layout and right hand sidebar. The "
+"Customizer offers total control of the color scheme so you can make it your "
+"own."
+msgstr ""
+
+#: inc/functions.php:122
+msgid "Main Nav"
+msgstr ""
+
+#: comments.php:60
+msgid "Name"
+msgstr ""
+
+#: inc/template-hooks.php:91
+msgid "Next"
+msgstr ""
+
+#: comments.php:43
+msgid "Next Comments &rarr;"
+msgstr ""
+
+#: 404.php:19
+msgid "Not Found"
+msgstr ""
+
+#: contents/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: contents/content-masonry.php:36 contents/content-page.php:34
+#: contents/content-single.php:42 contents/content.php:30
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:58
+msgid "Post Comment"
+msgstr ""
+
+#: inc/functions.php:57
+msgid "Posts Widget Area"
+msgstr ""
+
+#: inc/template-hooks.php:88
+msgid "Previous"
+msgstr ""
+
+#: inc/template-hooks.php:74
+msgid "Published By "
+msgstr ""
+
+#: inc/functions.php:192
+msgid "Read more"
+msgstr ""
+
+#. create post link label
+#: contents/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: search.php:15
+msgid "Search Results for:"
+msgstr ""
+
+#: contents/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"The article you were looking for was not found. You may want to check your "
+"link or perhaps that page does not exist anymore. Maybe try a search?"
+msgstr ""
+
+#: inc/functions.php:58
+msgid "The Posts Widget Area."
+msgstr ""
+
+#: inc/template-hooks.php:111
+msgid "Toggle navigation"
+msgstr ""
+
+#: comments.php:64
+msgid "Website"
+msgstr ""
+
+#. Author of the theme
+msgid "WP Dev Shed"
+msgstr ""
+
+#: inc/template-hooks.php:208
+msgid "Y"
+msgstr ""
+
+#: inc/functions.php:140
+msgid "Your comment is awaiting moderation."
+msgstr ""

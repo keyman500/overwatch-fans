@@ -1,0 +1,2 @@
+if(jQuery("form.cc-purchase").length)var card=new Card({form:"form.cc-purchase",container:".card-wrapper",formSelectors:{numberInput:"input.number",expiryInput:"input.exp",cvcInput:"input.cvc",nameInput:"input.name"},width:300,formatting:!0,messages:{validDate:"valid\ndate",monthYear:"mm/yyyy"},placeholders:{number:"\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022",name:"Full Name",expiry:"\u2022\u2022/\u2022\u2022",cvc:"\u2022\u2022\u2022"},masks:{cardNumber:"\u2022"},
+debug:!1});
